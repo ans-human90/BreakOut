@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+#canvas{
+  background-color: #134959;
+}
+
+.gameHeader {
+  font-family: "Sedgwick Ave", cursive;
+  color: white;
+  font-size: 40px;
+}
